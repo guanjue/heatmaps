@@ -1,0 +1,6 @@
+/Volumes/MAC_Data/data/labs/pugh_lab/test_pipeline/pipeline_bin/gene_group/RP_137_genes_Xu_2009.genename.txt
+/Volumes/MAC_Data/data/labs/pugh_lab/test_pipeline/pipeline_bin/gene_group/SAGA_Xu_2009_ORF_Ts_V64.genename.txt
+/Volumes/MAC_Data/data/labs/pugh_lab/test_pipeline/pipeline_bin/gene_group/TFIID_Xu_2009_ORF_Ts_V64.genename.txt
+/Volumes/MAC_Data/data/labs/pugh_lab/test_pipeline/pipeline_bin/gene_group/CUTs.genename.txt
+/Volumes/MAC_Data/data/labs/pugh_lab/test_pipeline/pipeline_bin/gene_group/SUTs.genename.txt
+/Volumes/MAC_Data/data/labs/pugh_lab/test_pipeline/pipeline_bin/gene_group/XUTs.genename.txt
