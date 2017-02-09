@@ -1,5 +1,5 @@
 #!/bin/bash
-script_bin='/Volumes/MAC_Data/data/labs/pugh_lab/test_pipeline/pipeline_bin/'
+script_bin='/Volumes/MAC_Data/data/labs/pugh_lab/test_pipeline/heatmaps/'
 while read info; do
 	id=$(echo $info | awk -F ' ' -v OFS='\t' '{print $1}' )
 	bam_file=$(echo $info | awk -F ' ' -v OFS='\t' '{print $2}' )
